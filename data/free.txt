@@ -121,6 +121,7 @@ agoodmail.com
 ahaa.dk
 aichi.com
 aim.com
+aircanopy.net
 aircraftmail.com
 airforce.net
 airforceemail.com
@@ -570,6 +571,7 @@ cmpmail.com
 cmpnetmail.com
 cnnsimail.com
 cntv.cn
+cobaltemail.com
 codec.ro
 coder.hu
 cogeco.ca
@@ -647,6 +649,7 @@ crwmail.com
 cryingmail.com
 cs.com
 csinibaba.hu
+ctxwifi.net
 cuemail.com
 cumbriamail.com
 curio-city.com
@@ -749,6 +752,7 @@ dontgotmail.com
 dontmesswithtexas.com
 doramail.com
 dostmail.com
+dot11net.net
 dotcom.fr
 dotmsg.com
 dotnow.com
@@ -805,6 +809,7 @@ easystreetemail.com
 ebold.com
 ec-messenger.com
 ecardmail.com
+eccwireless.net
 echina.com
 ecn.ab.ca
 ecomail.org
@@ -1548,6 +1553,7 @@ ist-willig.de
 istar.ca
 isys.ca
 italymail.com
+itexas.net
 itloox.com
 itmom.com
 ivebeenframed.com
@@ -1651,6 +1657,7 @@ la.com
 ladyfire.com
 ladymail.cz
 lagerlouts.com
+lakegranbury.com
 lakmail.com
 lamer.hu
 lamessagerie.com
@@ -1771,6 +1778,7 @@ mac.com
 macbox.com
 macbox.ru
 macfreak.com
+mach3isp.com
 macmail.com
 macnews.de
 madcrazy.com
@@ -3232,6 +3240,7 @@ moldova.cc
 moldova.com
 moldovacc.com
 mom-mail.com
+moment.net
 momslife.com
 money.net
 monsieurcinema.com
@@ -3292,6 +3301,7 @@ mynetaddress.com
 myownemail.com
 mypacks.net
 mypad.com
+mypbmail.com
 mypersonalemail.com
 myplace.com
 myrambler.ru
@@ -3437,6 +3447,7 @@ novis.pt
 novogireevo.net
 novokosino.net
 ns.sympatico.ca
+nsb-gainesville.com
 ntlworld.com
 ntscan.com
 null.net
@@ -3957,14 +3968,17 @@ singmail.com
 singnet.com.sg
 singpost.com
 siol.net
+sirisonline.com
 sisna.com
 skafan.com
 skeefmail.com
 skim.com
 skizo.hu
 sky.com
+skybeammail.com
 skyhighway.com
 skynet.be
+skywi.com
 slamdunkfan.com
 slickriffs.co.uk
 slingshot.co.nz
@@ -4039,6 +4053,7 @@ spazmail.com
 speakeasy.net
 speakeasy.org
 speedemail.net
+speednet.com
 speedpost.net
 speedrules.com
 speedrulz.com
@@ -4137,6 +4152,7 @@ swissmail.com
 swissmail.net
 swissonline.ch
 switchboardmail.com
+swwnet.com
 sx172.com
 syd.eastlink.ca
 symaptico.ca
@@ -4347,7 +4363,9 @@ truckracers.com
 trust-me.com
 truthmail.com
 tsamail.co.za
+tstar.net
 tstonramp.com
+tswireless.net
 ttml.co.in
 turboprinz.de
 turboprinzessin.de
@@ -4364,6 +4382,7 @@ tvnet.lv
 tvstar.com
 twc.com
 twinstarsmail.com
+txwifi.com
 typemail.com
 tyt.by
 u2club.com
@@ -4427,6 +4446,7 @@ uswest.net
 uswestmail.net
 utanet.at
 utulsa.edu
+uwmail.com
 uymail.com
 uyuyuy.com
 uzhe.net
