@@ -783,6 +783,7 @@ dynegy.com
 dynip.com
 e-apollo.lv
 e-hkma.com
+e-mail.com.tr
 e-mail.dk
 e-mail.ru
 e-mail.ua
@@ -1194,6 +1195,7 @@ gdi.net
 geecities.com
 geek.com
 geeklife.com
+gencmail.com
 general-hospital.com
 gentlemansclub.de
 genxemail.com
@@ -1440,6 +1442,7 @@ iinet.com
 iinet.net.au
 ijustdontcare.com
 ilema.net
+ilkposta.com
 ilovechocolate.com
 ilovejesus.com
 ilse.nl
@@ -1803,6 +1806,7 @@ mail.bulgaria.com
 mail.by
 mail.co.za
 mail.com
+mail.com.tr
 mail.dk
 mail.ee
 mail.entrepeneurmag.com
@@ -3386,6 +3390,7 @@ netscape.net
 netspace.net.au
 netster.com
 nettaxi.com
+nettemail.com
 netterchef.de
 netvigator.com
 netvisao.pt
